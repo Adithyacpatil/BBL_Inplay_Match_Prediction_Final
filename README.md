@@ -34,6 +34,3 @@ notebooks_archive/
 
 figures/
     Final report figures.
-
-results/
-    Optional final result tables.
